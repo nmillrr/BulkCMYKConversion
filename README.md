@@ -1,6 +1,6 @@
-# Photoshop Bulk CMYK Conversion Script
+# 🖼 Photoshop Bulk CMYK Conversion Script
 
-This JavaScript script for Adobe Photoshop automates the process of converting multiple images to CMYK color mode and saving them as TIFF files.
+Simple JS script for Adobe Photoshop automates bulk image conversion to CMYK color mode + saving them as TIFF files. Useful for print production preparation from a digital file with RGB source images.
 
 ## Features
 - Opens all images (JPG, JPEG, PNG, TIF, TIFF, PSD) from a selected folder
